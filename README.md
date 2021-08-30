@@ -28,3 +28,8 @@ Part 2: A tour of Ondemand web service and how it works with SLURM
 Part 3: Rstudio in Ondemand
 Part 4: Jupyter notebooks in Ondemand
 Part 5: Interactive command line access
+
+Examples can also be accessed on **Milton** at
+```
+  /stornext/System/data/apps/sample-scripts/WEHI_Training
+```
