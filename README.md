@@ -36,7 +36,7 @@ Prerequisites: Part 5 assumes a basic knowledge of the Linux command line.
   * SLURM in Ondemand
   * Rstudio in Ondemand
   * Jupyter notebooks in Ondemand
-* Part 3: Interactive command line access
+* Part 3: Interactive SLURM Sessions
 
 Examples can also be accessed on **Milton** at
 ```
