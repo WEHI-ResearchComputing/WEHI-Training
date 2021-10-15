@@ -32,10 +32,11 @@ Duration: 90 minutes
 Prerequisites: Part 5 assumes a basic knowledge of the Linux command line.
   
 * Part 1: The Milton Rstudio Pro server
-* Part 2: A tour of Ondemand web service and how it works with SLURM
-* Part 3: Rstudio in Ondemand
-*Part 4: Jupyter notebooks in Ondemand
-* Part 5: Interactive command line access
+* Part 2: Open Ondemand Portal
+  * SLURM in Ondemand
+  * Rstudio in Ondemand
+  * Jupyter notebooks in Ondemand
+* Part 3: Interactive command line access
 
 Examples can also be accessed on **Milton** at
 ```
